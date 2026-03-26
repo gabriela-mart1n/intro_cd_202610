@@ -11,3 +11,6 @@ tan tan tan tan
 
 Imagen simple
 ![Texto alternativo](images.jpg)
+
+Imagen desde URL externa
+![Logo](https://i.pinimg.com/736x/e0/41/50/e0415054a8cb7d459aeb76de119d05c2.jpg)
