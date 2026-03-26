@@ -19,6 +19,16 @@ Imagen desde URL externa
 
 *cursiva*
 
+Listas
+Elemento sin orden
+- Elemento sin orden
+
+1. Elemento con orden
+2. Elemento con orden
+
+- [ ] Tarea pendiente
+- [x] Tarea completada
+
 ~~tachado~~
 
 `código en línea`
