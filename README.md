@@ -20,3 +20,7 @@ Imagen desde URL externa
 *cursiva*
 
 ~~tachado~~
+
+`código en línea`
+
+> cita o blockquote
