@@ -51,3 +51,29 @@ sysuse auto.dta
 ```
 
 > cita o blockquote
+
+Tablas
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato 4    | Dato 5    | Dato 6    |
+
+Separadores y Extras
+
+línea horizontal separadora
+
+---
+
+salto de línea en HTML
+<br/>
+
+espacio en blanco
+&nbsp;
+
+Badges (etiquetas decorativas)
+
+![Badge](https://img.shields.io/badge/etiqueta-valor-color)
+
+<!-- Ejemplos -->
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Licencia](https://img.shields.io/badge/licencia-MIT-green)
