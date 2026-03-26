@@ -4,6 +4,16 @@
 
 # Predicción de Deserción Escolar en Bogotá
 ### Taller 05 · Introducción a la Ciencia de Datos · Grupo 3
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1200&color=0d4a2a&center=true&vCenter=true&width=1000&height=60&lines=Estudiantes)](https://git.io/typing-svg)
+
+ **María Gabriela Martín Avila** ·  **Nombre Apellido 2** ·  **Nombre Apellido 3** ·  **Nombre Apellido 4**
+
+ **Docente:** Rodrigo Taborda
+
+<br/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1200&color=20b267&center=true&vCenter=true&width=1000&height=60&lines=Detectando+riesgo+antes+de+que+sea+tarde...;Ciencia+de+Datos+al+servicio+de+la+educaci%C3%B3n;Ciencia+de+datos+con+impacto+social+real)](https://git.io/typing-svg)
 
