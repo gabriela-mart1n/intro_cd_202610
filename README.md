@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1200&color=0d4a2a&center=true&vCenter=true&width=1000&height=60&lines=Estudiantes)](https://git.io/typing-svg)
 
- **María Gabriela Martín Avila** ·  **Nombre Apellido 2** ·  **Nombre Apellido 3** ·  **Nombre Apellido 4**
+ **María Gabriela Martín Avila** ·  **Tomas Pulgarin Castañeda** ·  **Nombre Apellido 3** ·  **Nombre Apellido 4**
 
  **Docente:** Rodrigo Taborda
 
