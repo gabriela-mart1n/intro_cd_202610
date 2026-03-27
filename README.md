@@ -208,12 +208,17 @@ Al inicio de cada período, el sistema genera una lista priorizada por colegio c
 
 <br/>
 <div align="center">
+
+<br/>
+<div align="center">
 ---
 ## 🎯 **CONCLUSIÓN** 🔥
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=20b267&height=80&section=footer&text=¡La+Ciencia+de+Datos+salva+vidas!&fontSize=28&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=20b267&height=90&section=footer&text=¡La+Ciencia+de+Datos+salva+vidas!&fontSize=30&fontColor=ffffff" width="100%"/>
 </div>
+
+<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=400&fit=crop" width="100%" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
 
 **La deserción escolar no es solo un número…**  
 **es el futuro de miles de jóvenes de Bogotá que se apaga.**
@@ -222,6 +227,8 @@ Este proyecto demuestra que **la Ciencia de Datos puede cambiar esa historia**.
 
 Ya no esperamos a que el estudiante abandone el colegio.  
 **Ahora lo detectamos 3 meses antes** y actuamos a tiempo.
+
+<img src="https://images.unsplash.com/photo-1582213782179-4a0d8d4b5b1f?w=800&h=300&fit=crop" width="100%" style="border-radius: 15px; margin: 20px 0;"/>
 
 Gracias al modelo de clasificación, los orientadores podrán recibir **alertas tempranas** y ofrecer:
 - ✅ Apoyo psicosocial  
@@ -241,5 +248,4 @@ En las próximas fases llevaremos este modelo a un **dashboard interactivo** par
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&pause=800&color=20b267&center=true&vCenter=true&width=1000&height=70&lines=Ciencia+de+Datos+con+impacto+real;Anticipando+el+futuro+de+nuestros+estudiantes;¡Porque+cada+joven+cuenta!;Transformando+datos+en+oportunidades)](https://git.io/typing-svg)
 
 **¡La Ciencia de Datos no solo analiza el mundo… lo cambia!** 🚀
-
 
