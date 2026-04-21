@@ -12,6 +12,16 @@
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Proyecto-TransMilenio-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ruta-FJ23-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Estado-En%20desarrollo-orange?style=for-the-badge"/>
+
+<br/><br/>
+
+> *Optimizar el transporte es optimizar la vida urbana.*
+
+<br/>
+
 <p style="font-size:16px;">
 <b>Valeria Colmenares Moreno</b> · 
 <b>Miguel Colmenares Rodríguez</b> · 
