@@ -33,80 +33,51 @@
 
 ---
 
-<h2 style="color:#8B0000;">Problema</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=300&lines=Problema" />
+</div>
 
 Las estaciones **Las Aguas** y **Museo del Oro** dependen exclusivamente de la ruta **FJ23**, lo que genera un sistema vulnerable ante fallas operativas y picos de demanda.
 
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1331658886/es/foto/bus-p%C3%BAblico-en-una-estaci%C3%B3n-de-pasajeros-de-la-ciudad-de-bogot%C3%A1.jpg?s=612x612&w=0&k=20&c=9WV-Vi-CrL_mf7o1fNVB6xOtox62P2sRE6tdUvu8aGo=" width="65%" style="border-radius:12px;">
+<img src="https://media.istockphoto.com/id/1331658886/es/foto/bus-p%C3%BAblico-en-una-estaci%C3%B3n-de-pasajeros-de-la-ciudad-de-bogot%C3%A1.jpg?s=612x612&w=0&k=20&c=9WV-Vi-CrL_mf7o1fNVB6xOtox62P2sRE6tdUvu8aGo=" width="65%" style="border-radius:12px;">
 </p>
-
-En horas pico, la demanda supera la capacidad del sistema, generando congestión, aumento en tiempos de espera y saturación del servicio.
 
 ---
 
-<h2 style="color:#8B0000;">Pregunta de investigación</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=400&lines=Pregunta+clave" />
+</div>
 
 <div align="center">
-<i>¿En qué momentos del día la oferta del sistema es insuficiente frente a la demanda real?</i>
+<i>¿Cuándo la oferta del sistema no alcanza la demanda?</i>
 </div>
 
 ---
 
-<h2 style="color:#8B0000;">Información requerida</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=450&lines=Información" />
+</div>
 
 <div align="center">
 
 <table>
-<tr>
-<th>Tipo</th>
-<th>Variable</th>
-<th>Descripción</th>
-</tr>
-
-<tr>
-<td><b>Principal</b></td>
-<td>Validaciones</td>
-<td>Registros de ingreso de pasajeros durante el día</td>
-</tr>
-
-<tr>
-<td><b>Principal</b></td>
-<td>Flujo horario</td>
-<td>Cantidad de usuarios por franja horaria</td>
-</tr>
-
-<tr>
-<td><b>Principal</b></td>
-<td>Frecuencia</td>
-<td>Número de buses de la ruta FJ23</td>
-</tr>
-
-<tr>
-<td><b>Complementario</b></td>
-<td>Carril único</td>
-<td>Impacto en la operación</td>
-</tr>
-
-<tr>
-<td><b>Complementario</b></td>
-<td>Regularidad</td>
-<td>Consistencia del servicio</td>
-</tr>
-
-<tr>
-<td><b>Complementario</b></td>
-<td>Factores externos</td>
-<td>Condiciones que afectan la movilidad</td>
-</tr>
-
+<tr><th>Tipo</th><th>Variable</th><th>Descripción</th></tr>
+<tr><td><b>Principal</b></td><td>Validaciones</td><td>Ingreso de pasajeros</td></tr>
+<tr><td><b>Principal</b></td><td>Flujo horario</td><td>Usuarios por hora</td></tr>
+<tr><td><b>Principal</b></td><td>Frecuencia</td><td>Buses FJ23</td></tr>
+<tr><td><b>Complementario</b></td><td>Carril único</td><td>Impacto operativo</td></tr>
+<tr><td><b>Complementario</b></td><td>Regularidad</td><td>Consistencia</td></tr>
+<tr><td><b>Complementario</b></td><td>Factores externos</td><td>Condiciones externas</td></tr>
 </table>
 
 </div>
 
 ---
 
-<h2 style="color:#8B0000;">Relación del sistema</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=420&lines=Sistema" />
+</div>
 
 ```mermaid
 flowchart LR
