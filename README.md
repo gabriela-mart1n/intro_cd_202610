@@ -23,7 +23,11 @@
 
 ---
 
-<h2 style="color:#8B0000; font-family:Georgia;">Problema</h2>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Problema" />
+
+</div>
 
 Las estaciones **Las Aguas** y **Museo del Oro** dependen exclusivamente de la ruta **FJ23**, lo que genera un sistema vulnerable ante fallas operativas y picos de demanda.
 
@@ -31,21 +35,27 @@ Las estaciones **Las Aguas** y **Museo del Oro** dependen exclusivamente de la r
   <img src="https://media.istockphoto.com/id/1331658886/es/foto/bus-p%C3%BAblico-en-una-estaci%C3%B3n-de-pasajeros-de-la-ciudad-de-bogot%C3%A1.jpg?s=612x612&w=0&k=20&c=9WV-Vi-CrL_mf7o1fNVB6xOtox62P2sRE6tdUvu8aGo=" width="65%" style="border-radius:12px;">
 </p>
 
-En horas pico, la demanda supera la capacidad del sistema, generando congestión, aumento en tiempos de espera y saturación del servicio. Incluso en horas valle, la afluencia se mantiene alta, lo que evidencia un problema estructural.
+En horas pico, la demanda supera la capacidad del sistema, generando congestión, aumento en tiempos de espera y saturación del servicio.
 
 ---
 
-<h2 style="color:#8B0000; font-family:Georgia;">Pregunta de investigación</h2>
-
 <div align="center">
 
-<i>¿En qué momentos del día la oferta del sistema es insuficiente frente a la demanda real?</i>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Pregunta+de+investigación" />
 
+</div>
+
+<div align="center">
+<i>¿En qué momentos del día la oferta del sistema es insuficiente frente a la demanda real?</i>
 </div>
 
 ---
 
-<h2 style="color:#8B0000; font-family:Georgia;">Información requerida</h2>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Información+requerida" />
+
+</div>
 
 <div align="center">
 
@@ -77,13 +87,13 @@ En horas pico, la demanda supera la capacidad del sistema, generando congestión
 <tr>
 <td><b>Complementario</b></td>
 <td>Carril único</td>
-<td>Impacto en la operación del sistema</td>
+<td>Impacto en la operación</td>
 </tr>
 
 <tr>
 <td><b>Complementario</b></td>
 <td>Regularidad</td>
-<td>Consistencia en los tiempos de llegada</td>
+<td>Consistencia del servicio</td>
 </tr>
 
 <tr>
@@ -98,7 +108,11 @@ En horas pico, la demanda supera la capacidad del sistema, generando congestión
 
 ---
 
-<h2 style="color:#8B0000; font-family:Georgia;">Relación del sistema</h2>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Relación+del+sistema" />
+
+</div>
 
 ```mermaid
 flowchart LR
