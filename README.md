@@ -22,7 +22,7 @@
 
 <br/>
 
-<p style="font-size:16px;">
+<p>
 <b>Valeria Colmenares Moreno</b> · 
 <b>Miguel Colmenares Rodríguez</b> · 
 <b>María Gabriela Martín Avila</b> · 
@@ -33,11 +33,7 @@
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Problema" />
-
-</div>
+<h2 style="color:#8B0000;">Problema</h2>
 
 Las estaciones **Las Aguas** y **Museo del Oro** dependen exclusivamente de la ruta **FJ23**, lo que genera un sistema vulnerable ante fallas operativas y picos de demanda.
 
@@ -49,11 +45,7 @@ En horas pico, la demanda supera la capacidad del sistema, generando congestión
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Pregunta+de+investigación" />
-
-</div>
+<h2 style="color:#8B0000;">Pregunta de investigación</h2>
 
 <div align="center">
 <i>¿En qué momentos del día la oferta del sistema es insuficiente frente a la demanda real?</i>
@@ -61,11 +53,7 @@ En horas pico, la demanda supera la capacidad del sistema, generando congestión
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Información+requerida" />
-
-</div>
+<h2 style="color:#8B0000;">Información requerida</h2>
 
 <div align="center">
 
@@ -118,11 +106,7 @@ En horas pico, la demanda supera la capacidad del sistema, generando congestión
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Relación+del+sistema" />
-
-</div>
+<h2 style="color:#8B0000;">Relación del sistema</h2>
 
 ```mermaid
 flowchart LR
