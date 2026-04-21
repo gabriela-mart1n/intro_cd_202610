@@ -1,85 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=250&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=80&text=Análisis+de+Congestión+en+TransMilenio&fontSize=32&fontColor=ffffff" width="100%"/>
-
-<br/>
-
-<img src="https://media.istockphoto.com/id/1331658886/es/foto/bus-p%C3%BAblico-en-una-estaci%C3%B3n-de-pasajeros-de-la-ciudad-de-bogot%C3%A1.jpg?s=612x612&w=0&k=20&c=9WV-Vi-CrL_mf7o1fNVB6xOtox62P2sRE6tdUvu8aGo=" width="70%" style="border-radius:15px;"/>
-
-<br/><br/>
-
-<img src="https://bogota.gov.co/sites/default/files/2025-12/transmilenio-presenta-ruta-y-mejoras-en-servicios-diciembre-bogota.jpg" width="85%" style="border-radius:15px;"/>
-
-<br/><br/>
-
-<p>
-<b>Valeria Colmenares Moreno</b> · 
-<b>Miguel Colmenares Rodríguez</b> · 
-<b>María Gabriela Martín Avila</b> · 
-<b>Sebastián David Moreno Bustos</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=85&text=Análisis+de+Congestión+en+TransMilenio&fontSize=34&fontColor=ffffff&fontAlign=50" width="100%"/>
 
 <br/>
 
-> *Un sistema de transporte no falla de repente… se va saturando poco a poco hasta que colapsa.*
+<img src="https://media.istockphoto.com/id/1331658886/es/foto/bus-p%C3%BAblico-en-una-estaci%C3%B3n-de-pasajeros-de-la-ciudad-de-bogot%C3%A1.jpg?s=612x612&w=0&k=20&c=9WV-Vi-CrL_mf7o1fNVB6xOtox62P2sRE6tdUvu8aGo=" width="85%" style="border-radius:18px; box-shadow: 0px 10px 30px rgba(0,0,0,0.25);"/>
+
+<br/><br/>
+
+<img src="https://bogota.gov.co/sites/default/files/2025-12/transmilenio-presenta-ruta-y-mejoras-en-servicios-diciembre-bogota.jpg" width="90%" style="border-radius:18px; box-shadow: 0px 10px 30px rgba(0,0,0,0.25);"/>
+
+<br/><br/>
+
+<h3>
+<span style="color:#8B0000;">Valeria Colmenares Moreno</span> &nbsp;✦&nbsp;
+<span style="color:#B22222;">Miguel Colmenares Rodríguez</span> &nbsp;✦&nbsp;
+<span style="color:#FF4C4C;">María Gabriela Martín Avila</span> &nbsp;✦&nbsp;
+<span style="color:#8B0000;">Sebastián David Moreno Bustos</span>
+</h3>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1200&color=8B0000&center=true&vCenter=true&width=900&lines=Analizando+la+congestión+urbana;Datos+que+explican+la+movilidad;Entender+antes+de+optimizar" />
 
 </div>
 
 ---
 
-## 🚨 ¿Qué está pasando realmente?
+<br/>
 
-Las estaciones **Las Aguas** y **Museo del Oro** dependen únicamente de la ruta **FJ23**.
+## 🚨 El problema (sin rodeos)
 
-Eso, en la práctica, significa algo simple pero crítico:  
-si esa ruta falla, **no hay plan B**.
+Actualmente, las estaciones **Las Aguas** y **Museo del Oro** dependen exclusivamente de la ruta **FJ23**.  
+Esto genera un escenario frágil:
 
----
+- Si la ruta falla → las estaciones quedan aisladas  
+- Si la demanda aumenta → el sistema no responde  
+- Si no hay cambios → la congestión se vuelve estructural  
 
-### 📉 Lo que se observa en el día a día
-
-- En horas pico → acumulación masiva de personas  
-- En horas valle → la demanda sigue siendo alta  
-- Los tiempos de espera → aumentan constantemente  
-- La operación → no logra adaptarse a la demanda  
-
-No es solo congestión… es **falta de capacidad de respuesta del sistema**.
+Además, existe una **insuficiencia operativa clara**, especialmente en horas pico, cuando la demanda supera la capacidad del sistema.
 
 ---
 
-## 🎯 El punto clave del proyecto
+<br/>
 
-No se trata solo de describir el problema, sino de responder esto:
+## 📉 Lo que está pasando en la práctica
 
+<div align="center">
+<img src="https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1000&h=300&fit=crop" width="80%" style="border-radius:12px;"/>
+</div>
 
-Porque ahí es donde realmente se puede intervenir.
+<br/>
 
----
+- 🚧 Congestión masiva en horas pico  
+- ⏱️ Aumento en tiempos de recorrido  
+- 📊 Alta afluencia incluso en horas valle  
+- ⚠️ Saturación constante del sistema  
 
-## 📊 Qué datos necesitamos
-
-Para entender lo que pasa, no basta con observar. Hay que medir.
-
-### Datos principales
-- Validaciones de pasajeros durante el día  
-- Flujo por horas  
-- Frecuencia de buses  
-
-### Datos que complementan
-- Operación en carril único  
-- Regularidad del servicio  
-- Condiciones externas del sistema  
+Esto muestra que la congestión **no es accidental, es predecible**.
 
 ---
 
-## ⚙️ Cómo se analiza
+<br/>
 
-```mermaid
-flowchart LR
-A[Pasajeros] --> B[Estaciones]
-B --> C[Ruta FJ23]
-C --> D[Frecuencia]
-D --> E[Capacidad]
-E --> F[Congestión]
+## 🎯 Pregunta central
+
+<div align="center">
+
+```text
+¿En qué momentos del día la oferta del sistema es insuficiente frente a la demanda real?
